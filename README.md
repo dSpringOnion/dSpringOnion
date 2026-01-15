@@ -16,7 +16,7 @@
       <sub>YOLOv8, OpenCV, React</sub>
     </td>
     <td align="center" width="50%">
-      <a href="LINK_TO_PORTFOLIO_REPO">
+      <a href="(https://github.com/dSpringOnion/CurrentPortfolio)">
         <img src="portfoliodash.png width="100%" alt="Portfolio Site" />
       </a>
       <br />
