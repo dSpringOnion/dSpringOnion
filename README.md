@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Daniel!;Technical+Project+Manager;Automating+Creative+Workflows;Building+Efficient+Systems&center=true&width=500&height=50&color=33e6ad&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Daniel!;Technical+Project+Manager;Automating+Creative+Workflows;Building+Efficient+Systems&center=true&width=600&height=70&color=33e6ad&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -42,11 +42,16 @@
 
 <h3 align="center">📊 GitHub Activity</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical&count_private=true" alt="Daniel's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
+
 <div align="center">
   <img src="https://github.com/dSpringOnion/dSpringOnion/raw/output/snake.svg" alt="Snake Animation" width="100%" />
 </div>
