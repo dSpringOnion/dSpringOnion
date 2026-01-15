@@ -40,15 +40,9 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Activity</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical&count_private=true" alt="Daniel's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
+### 📊 GitHub Activity
+![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical)
 
 <br />
 
