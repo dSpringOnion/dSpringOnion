@@ -41,8 +41,9 @@
 <br />
 
 ### 📊 GitHub Activity
-![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dSpringOnion&theme=radical&hide_border=true)
+### 🏆 Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dSpringOnion&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
