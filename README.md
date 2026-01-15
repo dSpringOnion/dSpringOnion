@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-dbpark@purdue.edu-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/daniel-park-5195ab207">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -40,13 +40,30 @@
 
 <br />
 
-### 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dSpringOnion&theme=radical&hide_border=true)
-### 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dSpringOnion&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,flask,pytorch,opencv,docker,kubernetes,gcp,git,github&theme=dark" />
+  </a>
+</div>
 
 <br />
 
+<h3 align="center">📊 Activity Dashboard</h3>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dSpringOnion&theme=radical&hide_border=true&card_width=450" alt="Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Languages" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github.com/dSpringOnion/dSpringOnion/raw/output/snake.svg" alt="Snake Animation" width="100%" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
