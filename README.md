@@ -4,35 +4,49 @@
   </a>
 </h1>
 
-<h3 align="center">Featured Projects</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="(https://github.com/dSpringOnion/MLCBA)">
-        <img src="mlcardash.png" width="100%" alt="AI Video Analysis" />
-      </a>
-      <br />
-      <b>AI Video Analysis System</b><br />
-      <sub>YOLOv8, OpenCV, React</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="(https://github.com/dSpringOnion/CurrentPortfolio)">
-        <img src="portfoliodash.png" width="100%" alt="Portfolio Site" />
-      </a>
-      <br />
-      <b>Personal Portfolio</b><br />
-      <sub>Next.js, TypeScript, Railway</sub>
-    </td>
-  </tr>
-</table>
 <p align="center">
   <a href="mailto:dbpark@purdue.edu">
     <img src="https://img.shields.io/badge/Email-dbpark@purdue.edu-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<h3 align="center">⚡ Featured Projects</h3>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dSpringOnion/MLCBA">
+        <img src="mlcardash.png" width="100%" alt="AI Video Analysis" />
+      </a>
+      <br />
+      <b>🚗 AI Video Analysis System</b><br />
+      <sub>YOLOv8, OpenCV, React</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dSpringOnion/CurrentPortfolio">
+        <img src="portfoliodash.png" width="100%" alt="Personal Portfolio" />
+      </a>
+      <br />
+      <b>🎨 Personal Portfolio</b><br />
+      <sub>Next.js, TypeScript, Railway</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="center">📊 GitHub Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dSpringOnion&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSpringOnion&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://github.com/dSpringOnion/dSpringOnion/raw/output/snake.svg" alt="Snake Animation" width="100%" />
+</div>
