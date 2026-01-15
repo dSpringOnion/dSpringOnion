@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="(https://github.com/dSpringOnion/MLCBA)">
-        <img src="IMAGE_LINK_FOR_VIDEO_PROJECT" width="100%" alt="AI Video Analysis" />
+        <img src="mlcardash.png" width="100%" alt="AI Video Analysis" />
       </a>
       <br />
       <b>AI Video Analysis System</b><br />
