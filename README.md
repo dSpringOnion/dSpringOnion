@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-dbpark@purdue.edu-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/daniel-park-5195ab207">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
