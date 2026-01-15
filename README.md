@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjODFjMGM4N2Q5YWRhNTQ5YmQ5NTQ5ODQ5ODQ5ODQ5ODQ5ODQ5OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cozy Cafe Animation" />
+  <img src="banner.png" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Cozy Cafe Animation" />
 </div>
 
 <h1 align="center">
